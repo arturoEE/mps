@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: January_PCBA _PSU.PcbDoc   3/2/2022  4:00:07 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : January_PCBA _PSU.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             72        PTH        0.00inch (0.00mm)
+T2      20mil (0.5mm)                                             Round             32        PTH        0.00inch (0.00mm)
+T3      43mil (1.1mm)                                             Round             3         PTH        0.00inch (0.00mm)
+T4      52mil (1.32mm)                                            Round             12        PTH        0.00inch (0.00mm)
+T5      138mil (3.5mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              123
+
+Total Processing Time (hh:mm:ss) : 00:00:00

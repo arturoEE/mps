@@ -888,40 +888,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document51]
-DocumentPath=..\..\..\..\..\arturo\Desktop\Parts library\Arturo_Approved.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CUXTFVJC
-
-[Document52]
-DocumentPath=..\..\..\..\..\arturo\Desktop\Parts library\Arturo_Approved.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ULCHXNBX
-
-[Document53]
 DocumentPath=January_PCBA.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -938,7 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BROFEBLO
 
-[Document54]
+[Document52]
 DocumentPath=January_PCBA _digital.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -955,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDUMMRAL
 
-[Document55]
+[Document53]
 DocumentPath=Handheld99.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
